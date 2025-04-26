@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "aa972e64e19d895a",
+    "type": "split",
+    "children": [
+      {
+        "id": "342da425fc995150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b66aa1f786fc2201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adhoc/Estimating Costs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estimating Costs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "677d2bb3f2aff579",
+    "type": "split",
+    "children": [
+      {
+        "id": "58b3341fef65a753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1ae96082e4f9ca2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b162595ffbe0258",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e8ad12584f68b6c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1f86948894568c5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c3294ed1ebba032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a5795f4b74fca0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Analysis/Excel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Excel"
+            }
+          },
+          {
+            "id": "f53ad77f4448eb8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Analysis/Excel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Excel"
+            }
+          },
+          {
+            "id": "f9f604b0865c3e64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "268eb30e07876701",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Analysis/Excel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Excel"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "e1ae96082e4f9ca2",
+  "lastOpenFiles": [
+    "0-PM/Project Management.md",
+    "Adhoc/Functions.md",
+    "Adhoc/Dax Functions Input And Return.md",
+    "Adhoc/Accrual method of accounting.md",
+    "Adhoc/Agile Methodologies.md",
+    "Adhoc/Various Methodologies.md",
+    "Adhoc/Lean Project Management.md",
+    "Assets/431143c468e0b53f8e377dc25b709bdf_MD5.webp",
+    "Adhoc/Waterfall Methodology.md",
+    "Adhoc/Scrum.md",
+    "Assets/dad657db5be773a94da072cb2a43e655_MD5.jpg",
+    "Assets/scrum-framework-9.29.23.png",
+    "Assets/a5a7846917eafefbee19ae8e2f744910_MD5.jpeg",
+    "Assets/images (2).png",
+    "Assets/d331133da35ff6c55e2e30f156f677a8_MD5.webp",
+    "Adhoc/Kanban.md",
+    "Assets/dc24688901a26cfbe8aa960c1e02de45_MD5.webp",
+    "Assets/a7396419738cbc444b784550f691ab7b_MD5.jpeg",
+    "Assets/media_1576e188070800895e8cf8e74a4a2582b9b20caaf.png",
+    "Assets/images 3.png",
+    "Adhoc/Project Phases or Lifecycle.md",
+    "Adhoc/Identify and assess risks.md",
+    "Adhoc/Risk Matrix.md",
+    "Adhoc/SWOT Analysis.md",
+    "Adhoc/PERT formula.md",
+    "Adhoc/Estimating Costs.md",
+    "Adhoc/Project scope or Project Scope Statement.md",
+    "Adhoc/Work Breakdown Structure (WBS).md",
+    "Adhoc/Project Charter.md",
+    "Adhoc/PM Skills.md",
+    "Adhoc/PM Concepts.md",
+    "Data Analysis/Power BI.md",
+    "Assets/~$6b5f5e75b1cf53b8c3676fb14fc75b5b_MD5.xlsx",
+    "Assets/6b5f5e75b1cf53b8c3676fb14fc75b5b_MD5.xlsx",
+    "Adhoc/Dax Query.md",
+    "Adhoc/Power BI theocraticals.md",
+    "Function list.md",
+    "0-PM",
+    "Adhoc/Lifecycle of power BI project.md",
+    "Adhoc",
+    "Assets/PowerBI_Cheatsheet_Zero_To_Mastery_V1.01.pdf",
+    "Assets/7049a4f242d630cba50b916a44039b32_MD5.pdf",
+    "Accounts",
+    "Assets",
+    "Data Analysis",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "3 Templates"
+  ]
+}
