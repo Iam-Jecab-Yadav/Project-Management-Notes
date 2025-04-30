@@ -39,3 +39,4 @@
 - **Emphasis on Sustainability and ESG:** Environmental, Social, and Governance (ESG) considerations are becoming more integral to project planning and execution.
 - **Focus on Soft Skills:** Alongside technical proficiency, soft skills such as communication, adaptability, and leadership are becoming increasingly crucial for project managers in dynamic environments.
 
+**[[Project phases vs scrum phases vs Kanban phases]]]**
