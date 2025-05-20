@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "342da425fc995150",
+        "id": "441f651041640821",
         "type": "tabs",
         "children": [
           {
-            "id": "b66aa1f786fc2201",
+            "id": "97d762196319ba16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documents in PM.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Documents in PM"
+              "title": "New tab"
             }
           }
         ]
@@ -169,13 +165,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b66aa1f786fc2201",
+  "active": "97d762196319ba16",
   "lastOpenFiles": [
+    "Adhoc/Project Management Methodologies.md",
+    "Adhoc/IMP PMO Functions.md",
+    "Adhoc/PMO.md",
+    "0-PM/Project Management.md",
+    "Adhoc/Project Management Office (PMO).md",
+    "Adhoc/Documents in PM.md",
     "Adhoc/Risk Matrix.md",
     "Adhoc/Risk Management Plan.md",
     "Assets/d921af27de5eb679e08e8a95aa84b30e_MD5.webp",
     "Assets/c3380371eb081d4bd83f93262955c8fb_MD5.webp",
-    "Documents in PM.md",
     "Adhoc/Communications Management Plan.md",
     "Assets/3b5f258e467d487347b4c7ad954edcf4_MD5.jpeg",
     "Assets/Communication-Plan-Matrix_9bb731a5-9464-4908-ba58-86373df46741_600x600.png",
@@ -196,16 +197,12 @@
     "Adhoc/Lifecycle of power BI project.md",
     "Adhoc/Stakeholder Register.md",
     "Adhoc/Project Proposal or Business Case.md",
-    "0-PM/Project Management.md",
     "Adhoc/Project Charter.md",
     "Adhoc/Project Management In Detail.md",
     "Assets/c731eee7eef09ab6562642a21af1ab45_MD5.jpeg.md",
     "Adhoc/Project Stakeholders.md",
     "Adhoc/Project phases vs scrum phases vs Kanban phases.md",
-    "Adhoc/Project Management Methodologies.md",
     "Adhoc/Project.md",
-    "Adhoc/Project Portfolio VS Project Program.md",
-    "Adhoc/Project VS Business Process.md",
     "Assets/~$6b5f5e75b1cf53b8c3676fb14fc75b5b_MD5.xlsx",
     "Assets/6b5f5e75b1cf53b8c3676fb14fc75b5b_MD5.xlsx",
     "0-PM",
